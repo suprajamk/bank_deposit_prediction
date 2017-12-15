@@ -1,0 +1,8 @@
+Classifier,MCC
+Logistic Regression,0.6781180532312913
+KNN,0.8927655048108559
+Linear Discriminant Analysis,0.67032735128509
+GNB,0.5824984135947164
+Decision Tree,0.95538889540992
+Random Forest Classifier,0.9673449736149373
+Gradient Boosting Classifier,0.8445894314435178
